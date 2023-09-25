@@ -1,0 +1,243 @@
+# Arquivos e pastas geradas automaticamente
+bin/
+obj/
+.vscode/
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.iml
+*.suo
+*.dll
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+[Bb]in
+[Dd]ebug*/
+[Dd]esig*/
+[Rr]elease*/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ee][Mm][Tt]/
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+*.pfx
+*.publishsettings
+node_modules/
+bower_components/
+.vs2015/
+.vs2017/
+.vs2019/
+*.pidb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dependências NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+.vscode/
+.vs2015/
+.vs2017/
+.vs2019/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Pastas específicas do Rider
+.idea/
+.idea/*
+*.sln.iml
+
+# Arquivos de configuração
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Pacotes do Visual Studio
+/.vscode
+.vscode/
+.vs2015/
+.vs2017/
+.vs2019/
+
+# Arquivos de compilação
+*.dll
+*.pdb
+*.exe
+*.dll.config
+*.exe.config
+*.exe.manifest
+*.pdb
+*.cache
+*.ilk
+*.log
+*.dlls
+*.locals
+*.opendb
+
+# Diretórios do Visual Studio
+.ipch/
+*.ncb
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.sln.docstates
+Thumbs.db
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios do Rider
+.idea/
+.idea/*
+*.sln.iml
+
+# Cache do Rider
+.idea/cache/
+
+# Cache do Visual Studio
+.vs2015/
+.vs2017/
+.vs2019/
+
+# Pasta de saída de build
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ee][Mm][Tt]/
+[Tt]est[Rr]esult*/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Arquivos de build do Mono
+*.sln.docstates
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.idea/
+
+# Rider directories
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio 2019 config folder
+.vs2019/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+*.mst
+*.vdx
+*.vsi
+*.vst
+*.vsto
+*.vsx
+*.nupkg
+*.pup
+*.pupproj
+*.bak
+[Bb]in
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Ee][Mm][Tt]/
+[Tt]est[Rr]esult*/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
